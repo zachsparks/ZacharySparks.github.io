@@ -5,11 +5,10 @@ About Me
 Name: Zachary Sparks
 Location: Claremore, OK, 74019
 Email: zachary.sparks.solutions@gmail.com
-LinkedIn: LinkedIn Profile
-GitHub: GitHub Profile
+LinkedIn: https://www.linkedin.com/in/zachary-sparks-3b2880166/
+GitHub: https://github.com/zachsparks
 
 
-Introduction
 I'm a Junior Web Developer with a strong background in HTML, CSS, JavaScript, and React JS. My passion lies in creating intuitive user experiences and eye-catching web designs. This portfolio is a testament to the skills and projects I've developed over time.
 
 Projects
